@@ -1,0 +1,3 @@
+# Ignorar archivos de MySQL
+mysql-data/
+node_modules/
